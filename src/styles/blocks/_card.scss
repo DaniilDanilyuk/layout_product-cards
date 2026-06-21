@@ -6,7 +6,7 @@
   height: 408px;
   padding: 32px 16px 16px;
   color: $main;
-  font-family: Roboto, sans-serif;
+  font-family: $font-main;
   align-items: center;
   box-sizing: border-box;
   border: 1px solid white;
@@ -55,7 +55,7 @@
       line-height: 18px;
       color: $secondary;
       letter-spacing: 0%;
-      font-weight: Regular;
+      font-weight: 400;
       margin: 0;
     }
 
